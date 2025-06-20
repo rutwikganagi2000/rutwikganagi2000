@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutwikganagi2000" alt="rutwikganagi2000" /></a> </p>
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 - 🔭 I’m currently working on ****Cloud-Native Health Check API** – A production-grade health check system using FastAPI, PostgreSQL, and AWS**
 
 - 👯 I’m looking to collaborate on ****AI-Powered Course Registration Platform** – A chatbot-enhanced course registration system with LLMs and React**
