@@ -5,15 +5,24 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-- 🔭 I'm currently working on **Cloud-Native Health Check API** – A production-grade health check system using FastAPI, PostgreSQL, and AWS
-- 👯 I'm looking to collaborate on **AI-Powered Course Registration Platform** – A chatbot-enhanced course registration system with LLMs and React
-- 📫 How to reach me: **ganagi.r@northeastern.edu**
+- 💡 **Technology Innovator**: Passionate about building scalable cloud-native systems and intelligent applications that solve real-world problems
+- 🌐 **Full-Stack Specialist**: Love crafting seamless user experiences with React/TypeScript and robust backend services with Node.js/Spring Boot
+- ☁️ **Cloud & DevOps Advocate**: Enjoy architecting AWS solutions with Terraform and optimizing CI/CD pipelines for zero-downtime deployments
+- 🤖 **AI Explorer**: Fascinated by applying machine learning (CNN, LLaMA) to enhance application intelligence and user interactions
+- 🎯 **Currently Seeking**: Summer/Fall 2024 internships/co-ops in Full-Stack Development, Cloud Engineering, or AI/ML Engineering roles
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🚀 Current Projects</h3>
+
+- **Building** a production-ready Cloud-Native Health Check API with FastAPI, PostgreSQL, and AWS infrastructure (Terraform, GitHub Actions)
+- **Developing** an AI-powered Course Registration Platform featuring an LLaMA-3 chatbot for personalized recommendations
+- **Experimenting** with computer vision models for real-time emotion detection using OpenCV and TensorFlow
+
+<h3 align="left">📫 Let's Connect</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rutwik-ganagi-41340b21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  📧 Email: ganagi.r@northeastern.edu
 </p>
-<br>
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
