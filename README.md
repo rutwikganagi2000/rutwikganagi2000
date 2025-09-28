@@ -9,7 +9,7 @@
 - 🌐 **Full-Stack Specialist**: Love crafting seamless user experiences with React/TypeScript and robust backend services with Node.js/Spring Boot
 - ☁️ **Cloud & DevOps Advocate**: Enjoy architecting AWS solutions with Terraform and optimizing CI/CD pipelines for zero-downtime deployments
 - 🤖 **AI Explorer**: Fascinated by applying machine learning (CNN, LLaMA) to enhance application intelligence and user interactions
-- 🎯 **Currently Seeking**: Summer/Fall 2024 internships/co-ops in Full-Stack Development, Cloud Engineering, or AI/ML Engineering roles
+- 🎯 **Currently Seeking**: Spring 2026 internships/co-ops in Full-Stack Development, Cloud Engineering, or AI/ML Engineering roles
 
 <h3 align="left">🚀 Current Projects</h3>
 
