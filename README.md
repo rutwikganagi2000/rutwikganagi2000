@@ -4,19 +4,19 @@
 <!-- ============================= TYPING INTRO ============================== -->
 <p align="center">
   <a href="https://github.com/rutwikganagi2000">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=45&lines=Cloud-Native+Developer+%E2%98%81%EF%B8%8F;Full-Stack+Engineer+%F0%9F%8C%90;DevOps+Enthusiast+%E2%9A%99%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Seeking+Spring+2026+Internships+%F0%9F%8E%AF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=45&lines=Cloud-Native+Developer+%E2%98%81%EF%B8%8F;Full-Stack+Engineer+%F0%9F%8C%90;DevOps+Enthusiast+%E2%9A%99%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Open+to+Full-Time+Roles+%F0%9F%8E%AF" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- =============================== BADGES ================================== -->
+<!-- Profile views is a plain <img> with no <a> wrapper, so it is not clickable -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rutwikganagi2000&label=Profile+views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/rutwikganagi2000?tab=followers">
-    <img src="https://img.shields.io/github/followers/rutwikganagi2000?label=Followers&style=for-the-badge&color=0e75b6&logo=github&logoColor=white" alt="GitHub followers" />
-  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/rutwik-ganagi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:ganagi.r@northeastern.edu">
     <img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -34,7 +34,7 @@
 - ☁️ &nbsp;**Cloud & DevOps Advocate** — AWS architecture with Terraform, CI/CD pipelines tuned for zero-downtime deploys
 - 🤖 &nbsp;**AI Explorer** — applying CNNs and LLaMA to make applications smarter
 - 🎓 &nbsp;Graduate student at **Northeastern University**
-- 🎯 &nbsp;**Open to Spring 2026 internships & co-ops** in Full-Stack, Cloud, or AI/ML Engineering
+- 🎯 &nbsp;**Full-time roles** in Full-Stack, Cloud, or AI/ML Engineering
 
 <br clear="right" />
 
@@ -175,7 +175,7 @@
 
 ---
 
-<!-- ============================ HIDDEN EXTRAS ============================== -->
+<!-- ============================== FOCUS AREAS ============================== -->
 <details>
   <summary><b>🧭 What I'm focused on right now</b> (click to expand)</summary>
   <br />
@@ -184,21 +184,18 @@
   - 🏗️ &nbsp;Writing more **infrastructure as code** — Terraform modules I can actually reuse
   - 🧪 &nbsp;Learning how to evaluate LLM applications properly, not just ship them
   - 💬 &nbsp;Happy to talk about **AWS architecture, CI/CD pipelines, or anything FastAPI**
-  - ⚡ &nbsp;Fun fact: I debug faster after the second coffee, and I have the commit timestamps to prove it
 
 </details>
 
-<details>
-  <summary><b>📌 Where to find me</b> (click to expand)</summary>
-  <br />
+---
 
-  | Platform | Link |
-  | --- | --- |
-  | 💼 LinkedIn | [rutwik-ganagi](https://linkedin.com/in/rutwik-ganagi/) |
-  | 📧 Email | [ganagi.r@northeastern.edu](mailto:ganagi.r@northeastern.edu) |
-  | 🐙 GitHub | [rutwikganagi2000](https://github.com/rutwikganagi2000) |
+<!-- ============================= FIND ME ================================== -->
+### 📌 Where to Find Me
 
-</details>
+| Platform | Link |
+| --- | --- |
+| 💼 LinkedIn | [rutwik-ganagi](https://linkedin.com/in/rutwik-ganagi/) |
+| 📧 Email | [ganagi.r@northeastern.edu](mailto:ganagi.r@northeastern.edu) |
 
 <br />
 
